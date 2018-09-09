@@ -1,1 +1,2 @@
-# Games
+# blackjack
+Basic blackjack app
